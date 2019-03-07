@@ -53,3 +53,6 @@ body {
     background: #334e4d;
   }
   
+  #submit-button {
+    width: 50px;
+  }
