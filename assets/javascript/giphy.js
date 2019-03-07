@@ -30,23 +30,7 @@ function displayShoeImages() {
       $("#shoes-view").append(image);
       image.addClass("gif");
 
-      // var rating = response.data[i].rating;
-      // var title = response.data[i].title;
-      // var url = response.data[i].url;
-      // var pOne = $("<p>").text("Title: " + title);
-      // var pTwo = $("<p>").text("Rating: " + rating);
-      // var pThree = $("<a href=" + url + " target = 'blank'>").text("Click Me!");
-      // // <p>To go to the gif<a href="url">Click Here</a> 
-      // animalDiv.append(pOne);
-      // animalDiv.append(pTwo);
-      // var stillImgURL = response.data[i].images.fixed_height_still.url;
-      // var animateImgURL = response.data[i].images.fixed_height.url;
-      // var image = $("<img>").attr("src", stillImgURL).attr("data-still", stillImgURL).attr("data-animate", animateImgURL).attr("data-state", "still");
-      // image.addClass("gif")
-      // pOne.addClass("title")
-      // animalDiv.append(image);
-      // $("#animal-view").append(animalDiv);
-      // animalDiv.append(pThree);
+     
 
     }
   });
