@@ -1,56 +1,57 @@
 body {
-    font: 18px arial, sans-serif;
+    font: 18px;
     background: #eee;
+    font-family: 'Sniglet', cursive;
+    padding: 10px 5px 30px 10px;
   }
   
   #shoes {
     width: 70%;
   }
-  
-  .animal-item {
-    float: left;
-    padding: 10px;
-  }
+   
+h1 {
+  color: #6B15EA;
+  background: #EA4715;
+  text-align: center;
+}
   
   form {
     float: right;
-    width: 30%;
+    width: 40%;
     padding: 20px;
   }
   
   label {
     display: block;
-    margin-bottom: 10px;
-    font-weight: 700;
+    margin-bottom: 1px;
   }
   
   input[type="text"] {
     width: 100px;
     height: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     font-size: 18px;
   }
   
   button,
   input[type="submit"] {
     padding: 5px 20px;
-    margin: 0 10px 10px 0;
-    font-size: 18px;
-    color: #fff;
+    margin: 10px 10px 0px 10px;
+    font-size: 20px;
+    color: yellow;
     cursor: pointer;
-    background: #659a98;
-    border: 0;
+    background: #D18E1B;
+    border: 1;
     border-radius: 5px;
-    box-shadow: 2px 2px 3px #bbb;
   }
   
   button:hover,
   input[type="submit"]:hover {
-    background: #334e4d;
+    background: #EA4715;
   }
   
   button.active {
-    background: #334e4d;
+    background: #EA4715;
   }
   
   /* #submit-button {

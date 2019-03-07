@@ -1,5 +1,5 @@
 // Initial array of brands
-var brands = ["Crocs", "Converse", "Vans", "Louis Vuitton", "Nike", "Prada", "Chanel", "Uggs"];
+var brands = ["Converse", "Vans", "Louis Vuitton", "Nike", "Prada", "Chanel", "X-men", "shoes", "youtube", "horses", "modern dance", "runway", "Uggs"];
 
 // displayShoeImages function re-renders the HTML to display the appropriate content
 function displayShoeImages() {
