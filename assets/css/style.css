@@ -3,7 +3,7 @@ body {
     background: #eee;
   }
   
-  #animals {
+  #shoes {
     width: 70%;
   }
   
@@ -25,7 +25,7 @@ body {
   }
   
   input[type="text"] {
-    width: 100%;
+    width: 100px;
     height: 30px;
     margin-bottom: 10px;
     font-size: 18px;
@@ -53,6 +53,6 @@ body {
     background: #334e4d;
   }
   
-  #submit-button {
+  /* #submit-button {
     width: 50px;
-  }
+  } */
