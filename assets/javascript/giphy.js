@@ -6,7 +6,7 @@ function displayShoeImages() {
   $("#shoes-view").empty();
 
   var brandName = $(this).attr("data-name");
-  var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + brandName + "&api_key=h1r3UpbjPtncFwWwh82S3X0ODSXi9Vsn";
+  var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + brandName + "&api_key=fiiNms2s3WR4YxdlEC4hGQNf48vtf4YP";
 
   // Creating an AJAX call for the specific animal button being clicked
 
